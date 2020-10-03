@@ -4,8 +4,8 @@ public class Livro {
 
 	private String titulo;
 	private String autor;
-	private String categoria;
 	private String editora;
+	private String categoria;
 	
 	public Livro() {
 	}
@@ -17,21 +17,13 @@ public class Livro {
 	public void setTitulo(String titulo) {
 		this.titulo = titulo;
 	}
-
+	
 	public String getAutor() {
 		return autor;
 	}
 
 	public void setAutor(String autor) {
 		this.autor = autor;
-	}
-
-	public String getCategoria() {
-		return categoria;
-	}
-
-	public void setCategoria(String categoria) {
-		this.categoria = categoria;
 	}
 
 	public String getEditora() {
@@ -42,10 +34,17 @@ public class Livro {
 		this.editora = editora;
 	}
 
+	public String getCategoria() {
+		return categoria;
+	}
+
+	public void setCategoria(String categoria) {
+		this.categoria = categoria;
+	}
+
 	@Override
 	public String toString() {
-		return "Livro [titulo=" + titulo + ", autor=" + autor + ", categoria=" + categoria + ", editora=" + editora
+		return "Livro [titulo=" + titulo + ", autor=" + autor + ", editora=" + editora + ", categoria=" + categoria
 				+ "]";
 	}
-	
 }

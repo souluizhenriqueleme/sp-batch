@@ -1,4 +1,4 @@
-package br.com.lheme.step;
+package br.com.lheme.sbfirstproject.step;
 
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;

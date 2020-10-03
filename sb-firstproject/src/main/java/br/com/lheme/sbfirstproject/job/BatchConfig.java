@@ -1,4 +1,4 @@
-package br.com.lheme.job;
+package br.com.lheme.sbfirstproject.job;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;

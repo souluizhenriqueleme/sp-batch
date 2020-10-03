@@ -1,0 +1,9 @@
+Java 9                    Rodrigo Turini                    Java       Casa do Código
+Spring Boot               Fernando Boaglio                  Java       Casa do Código
+Scala                     Paulo Siqueira                    Funcional  Casa do Código
+Elixir					  Tiago Davi                        Funcional  Casa do Código
+Bootsrap 4                Natan Souza                       FrontEnd   Casa do Código
+Cangaceiro Javascript     Flavio Almeida                    FrontEnd   Casa do Código
+Direto ao Ponto           Paulo Caroli                      Startups   Casa do Código
+Métricas Ágeis            Rafael Donare Albino              Gestão     Casa do Código
+UX Design                 Fabricio Teixeira                 Design     Casa do Código
